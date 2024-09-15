@@ -49,7 +49,7 @@ public class banco{
 	}
 
 	/*
-	 * This function it's the same that "ingresoDinero"
+	 * This function it's the same as "ingresoDinero"
 	 *  but we're removing money from the account.
 	 * 	First we have an if-else that if the money
 	 * 	we're removing is bigger than the money we've
